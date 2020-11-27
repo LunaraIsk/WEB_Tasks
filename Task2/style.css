@@ -1,0 +1,22 @@
+#all {
+    margin: 50px;
+    width: 400px;
+    height: 280px;
+    background: #0690CF;
+    border: 2px solid #0075B2;
+    color: white;
+    }
+#header {
+    font: 18pt Arial;
+    border-bottom: 1px solid white;
+    padding: 20px 0 10px 20px;}
+  p{ margin: 0; font-family: Arial;}
+   .pol{
+   width: 146px; height: 18px; 
+   margin : 4px 20px 0 0;  
+   }
+p input { border: 1px solid silver;}
+#button { width: 82px; height: 25px;
+     font: 10pt Arial;
+     background: #FFDF7F;
+     margin-top: 30px;}
